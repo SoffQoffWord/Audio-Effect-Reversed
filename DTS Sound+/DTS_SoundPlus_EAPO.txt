@@ -1,0 +1,20 @@
+Channel: L
+Filter: ON HPQ Fc 201.2 Hz Q 0.5412
+Filter: ON HPQ Fc 201.2 Hz Q 1.3065
+Filter: ON PK Fc 353.1 Hz Gain 7.64 dB Q 1.08
+Filter: ON PK Fc 1134.3 Hz Gain -15.94 dB Q 0.76
+Filter: ON PK Fc 3037.6 Hz Gain 8.89 dB Q 0.87
+Filter: ON PK Fc 679.5 Hz Gain 5.88 dB Q 0.77
+Filter: ON PK Fc 7134.3 Hz Gain 7.36 dB Q 3.58
+Filter: ON HSC Fc 1946.0 Hz Gain 1.69 dB Q 0.70
+Filter: ON HSC Fc 10027.3 Hz Gain 7.11 dB Q 0.70
+Channel: R
+Filter: ON HPQ Fc 200.3 Hz Q 0.5412
+Filter: ON HPQ Fc 200.3 Hz Q 1.3065
+Filter: ON PK Fc 345.4 Hz Gain 8.62 dB Q 1.68
+Filter: ON PK Fc 1331.3 Hz Gain -10.51 dB Q 1.30
+Filter: ON PK Fc 3319.1 Hz Gain 8.93 dB Q 0.83
+Filter: ON PK Fc 960.8 Hz Gain -2.97 dB Q 4.00
+Filter: ON PK Fc 7092.4 Hz Gain 8.00 dB Q 3.13
+Filter: ON HSC Fc 3208.0 Hz Gain -1.28 dB Q 0.70
+Filter: ON HSC Fc 9304.5 Hz Gain 10.34 dB Q 0.70
