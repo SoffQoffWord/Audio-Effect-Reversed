@@ -1,1 +1,1 @@
-Its a AC'97 Audio effect.
+Its AC'97 Audio effect of SigmaTel.
