@@ -1,4 +1,3 @@
-# Dolby Audio Premium
 Preamp: -12.3 dB
 Filter  1: ON HPQ Fc 157 Hz Q 0.54
 Filter  2: ON HPQ Fc 157 Hz Q 1.31
